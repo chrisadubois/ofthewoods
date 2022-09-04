@@ -2,6 +2,7 @@
   "name": "ofthewoods",
   "version": "0.0.0",
   "license": "MIT",
+  "private": "true",
   "packageManager": "yarn@3.2.3",
   "workspaces": [
     "packages/**"
